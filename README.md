@@ -9,7 +9,7 @@
 
    ```
 
-2. the create the db on mysql then migrate the db
+2. you must be create db first, this is db name "plan_study_db" then migrate or running this script
 
    ```bash
 
